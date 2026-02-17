@@ -71,17 +71,17 @@ A comprehensive series of Jupyter notebooks covering deep learning fundamentals 
 
 ### 14. Keras TensorFlow Advanced Tutorial
 - **Notebook:** `14_keras_tensorflow_advanced_tutorial.ipynb`
-- **Video:** [https://youtu.be/UN6jNuR0cqM](https://youtu.be/UN6jNuR0cqM) *(same as Colab 13)*
+- **Video:** [https://youtu.be/UN6jNuR0cqM](https://youtu.be/UN6jNuR0cqM)
 - **Topics:** Custom gradients, convolution, attention, residual blocks
 
 ### 15. NumPy Foundations for Deep Learning (Extended)
 - **Notebook:** `15_numpy_foundations_for_deep_learning.ipynb`
-- **Video:** [https://youtu.be/vh_MnsBxm6E](https://youtu.be/vh_MnsBxm6E) *(same as Colab 1)*
+- **Video:** [https://youtu.be/vh_MnsBxm6E](https://youtu.be/vh_MnsBxm6E)
 - **Topics:** Extended NumPy concepts, advanced indexing
 
 ### 16. JAX Deep Learning Tutorial (Advanced)
 - **Notebook:** `16_colab_5_jax_deep_learning_tutorial.ipynb`
-- **Video:** [https://youtu.be/s5eIk5Z4GCU](https://youtu.be/s5eIk5Z4GCU) *(same as Colab 4)*
+- **Video:** [https://youtu.be/s5eIk5Z4GCU](https://youtu.be/s5eIk5Z4GCU)
 - **Topics:** Advanced JAX operations, vmap, JIT compilation
 
 ### 17. JAX Neural Networks Tutorial
@@ -96,10 +96,6 @@ A comprehensive series of Jupyter notebooks covering deep learning fundamentals 
 3. Open any notebook in Jupyter
 4. Follow along with the corresponding video tutorial
 
-## Video Scripts
-
-All notebooks have accompanying concise video scripts available in the `SCRIPTS/` directory with 1-2 sentence explanations per code cell.
-
 ## Topics Covered
 
 - **Foundations:** NumPy, array operations, broadcasting, indexing
@@ -107,10 +103,3 @@ All notebooks have accompanying concise video scripts available in the `SCRIPTS/
 - **Mathematics:** Calculus, Linear Algebra, Probability
 - **Neural Networks:** From scratch, architecture design, optimization
 - **Advanced Topics:** Custom layers, attention, transformers, spectral normalization
-
-## Notes
-
-- Colabs 1 & 15 are NumPy foundations (15 is extended version) - videos point to same link
-- Colabs 4 & 16 are JAX tutorials (identical content) - videos point to same link
-- Colabs 13 & 14 are Keras/TensorFlow tutorials - videos point to same link
-- All videos are now uploaded ✓
