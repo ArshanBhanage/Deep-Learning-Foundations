@@ -56,22 +56,22 @@ A comprehensive series of Jupyter notebooks covering deep learning fundamentals 
 
 ### 11. PyTorch Neural Networks Tutorial
 - **Notebook:** `11__pytorch_neural_networks_tutorial.ipynb`
-- **Video:** Not yet uploaded
+- **Video:** [https://youtu.be/tEZchLR2bJc](https://youtu.be/tEZchLR2bJc)
 - **Topics:** nn.Module, autograd, training loops, einsum
 
 ### 12. PyTorch Advanced Tutorial
 - **Notebook:** `12_pytorch_advanced_tutorial.ipynb`
-- **Video:** Not yet uploaded
+- **Video:** [https://youtu.be/gYOVdy2A_28](https://youtu.be/gYOVdy2A_28)
 - **Topics:** Custom autograd, hooks, spectral norm, transformers
 
 ### 13. Keras TensorFlow Neural Networks Tutorial
 - **Notebook:** `13_keras_tensorflow_neural_networks_tutorial.ipynb`
-- **Video:** Not yet uploaded
+- **Video:** [https://youtu.be/UN6jNuR0cqM](https://youtu.be/UN6jNuR0cqM)
 - **Topics:** Keras Sequential/Functional/Subclass APIs, GradientTape
 
 ### 14. Keras TensorFlow Advanced Tutorial
 - **Notebook:** `14_keras_tensorflow_advanced_tutorial.ipynb`
-- **Video:** Not yet uploaded
+- **Video:** [https://youtu.be/UN6jNuR0cqM](https://youtu.be/UN6jNuR0cqM) *(same as Colab 13)*
 - **Topics:** Custom gradients, convolution, attention, residual blocks
 
 ### 15. NumPy Foundations for Deep Learning (Extended)
@@ -86,7 +86,7 @@ A comprehensive series of Jupyter notebooks covering deep learning fundamentals 
 
 ### 17. JAX Neural Networks Tutorial
 - **Notebook:** `17_colab_4_jax_neural_networks_tutorial.ipynb`
-- **Video:** Not yet uploaded
+- **Video:** [https://youtu.be/DsfTCcHuUtg](https://youtu.be/DsfTCcHuUtg)
 - **Topics:** Flax, Optax, neural network training, einsum patterns
 
 ## Quick Start
@@ -112,4 +112,5 @@ All notebooks have accompanying concise video scripts available in the `SCRIPTS/
 
 - Colabs 1 & 15 are NumPy foundations (15 is extended version) - videos point to same link
 - Colabs 4 & 16 are JAX tutorials (identical content) - videos point to same link
-- Videos 11-14 and 17 are pending upload
+- Colabs 13 & 14 are Keras/TensorFlow tutorials - videos point to same link
+- All videos are now uploaded ✓
